@@ -1,3 +1,3 @@
 # api-autotest
-API automation practice - written on MAIN
+API automation practice - merged from MAIN and DEV
 ## dev: add test plan
