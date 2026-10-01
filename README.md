@@ -1,3 +1,3 @@
 # api-autotest
-API automation practice for litemall
+API automation practice - written on DEV
 ## dev: add test plan
